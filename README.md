@@ -2,7 +2,7 @@
 move files from one directory to anywhere according to file extensions associations
 
 # Requirements 
-python 3.*
+python 3.*\n
 tkinter (python lib)
 easygui (python lib)
 
